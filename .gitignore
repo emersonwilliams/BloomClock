@@ -1,0 +1,9 @@
+app/__pycache__/routes.cpython-37.pyc
+app/__pycache__/models.cpython-37.pyc
+app/__pycache__/forms.cpython-37.pyc
+
+.idea/
+__pycache__/
+migrations/versions/0ca08af8b7fc_attempt_to_create_plant_table_1.py
+migrations/versions/__pycache__/0ca08af8b7fc_attempt_to_create_plant_table_1.cpython-37.pyc
+venv/
